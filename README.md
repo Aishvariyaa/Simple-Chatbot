@@ -1,4 +1,4 @@
-## 🤖 Simple Chatbot  
+## 🤖 **RegexBot - A Simple Rule-Based Chatbot in Python**  
 
 ### 📌 Overview  
 This project implements a **rule-based chatbot** using **Python & Regular Expressions (Regex)** to handle basic conversations. It can respond to greetings, farewells, questions, weather queries, and time-related requests. 💬✨  
@@ -23,8 +23,8 @@ Simple-Chatbot/
 ### 📜 How to Run the Project?  
 #### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/Aishvariyaa/Simple-Chatbot.git
-cd Simple-Chatbot
+git clone https://github.com/Aishvariyaa/RegexBot.git
+cd RegexBot
 ```  
 
 #### 2️⃣ Run the Chatbot  
