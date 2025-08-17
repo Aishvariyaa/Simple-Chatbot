@@ -13,7 +13,7 @@ This project implements a **rule-based chatbot** using **Python & Regular Expres
 ```
 Simple-Chatbot/
 │── README.md  # Documentation  
-│── chatbot.py  # Chatbot implementation  
+│── Simple Chatbot.py  # Chatbot implementation  
 ```  
 
 ### 🔧 Technologies Used  
@@ -29,7 +29,7 @@ cd RegexBot
 
 #### 2️⃣ Run the Chatbot  
 ```bash
-python chatbot.py
+python Simple Chatbot.py
 ```  
 
 ### 📈 Sample Conversation  
