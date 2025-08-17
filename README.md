@@ -1,4 +1,4 @@
-## 🤖 **RegexBot - A Simple Rule-Based Chatbot in Python**  
+# 🤖 **RegexBot - A Simple Rule-Based Chatbot in Python**  
 
 ### 📌 Overview  
 This project implements a **rule-based chatbot** using **Python & Regular Expressions (Regex)** to handle basic conversations. It can respond to greetings, farewells, questions, weather queries, and time-related requests. 💬✨  
